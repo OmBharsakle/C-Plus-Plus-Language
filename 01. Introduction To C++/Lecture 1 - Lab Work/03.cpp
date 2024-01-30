@@ -14,7 +14,7 @@ main()
 	
 	for(i=0; i<inc; i++)
 	{
-		if(inc>=12)
+		if(inc>=12) 
 		{
 			inc-=12;
 			feet++;
