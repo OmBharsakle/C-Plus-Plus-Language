@@ -16,8 +16,8 @@ main()
 	cin >> ss;
 	
 	t.hh = ss/3600;
-	t.mm = (hh%3600)/60;
-	t.ss = (mm%3600)/60;
+	t.mm = (ss%3600)/60;
+	t.ss = ss%60;
 	
 	cout << t.hh << ":" << t.mm << ":" << t.ss ;
 	
