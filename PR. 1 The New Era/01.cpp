@@ -5,7 +5,7 @@ class feet
 {
 	public :
 	int feet1,inch1,feet2,inch2;
-	
+	 
 void input()	
 {
 	cout<<"enter the feet1: ";
