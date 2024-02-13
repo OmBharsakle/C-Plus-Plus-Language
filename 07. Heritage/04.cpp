@@ -1,3 +1,4 @@
+//Q.4 WAP To Solve Ambiguity Error.
 #include<iostream>
 using namespace std;
 
