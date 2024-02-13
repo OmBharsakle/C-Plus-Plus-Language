@@ -1,3 +1,4 @@
+//Q.2 Write A Program To Demonstrate An Example Of Hierarchical Inheritance To Get The Square And Cube Of A Number.
 #include<iostream>
 using namespace std;
 
