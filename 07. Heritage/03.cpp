@@ -1,5 +1,4 @@
-//3 Write a Program to read and print Employee information with the use of Multilevel inheritance.
-
+//3 Write A Program To Read And Print Employee Information With The Use Of Multilevel Inheritance.
 #include<iostream>
 using namespace std;
 
