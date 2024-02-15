@@ -1,3 +1,8 @@
+//Q.1 Write A Program To Print The Rate Of Interest Of Different Banks Using Hierarchical Inheritance:
+// Class RBI -> Class SBI
+// Class RBI -> Class BOB
+// Class RBI -> Class ICICI
+// inherit rate attribute and getROI() Method In All Child Classes
 #include<iostream>
 using namespace std;
 
