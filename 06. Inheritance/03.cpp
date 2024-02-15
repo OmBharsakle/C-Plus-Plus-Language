@@ -1,3 +1,4 @@
+//Q.2 Write A Program To Demonstrate The Use Of A Scope Resolution Operator To Solve Ambiguity Errors.
 #include<iostream>
 using namespace std;
 
