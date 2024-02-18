@@ -1,3 +1,4 @@
+//Q.1 Write A Program To Create A Class To Read And Add Two Distances.
 #include<iostream>
 using namespace std;
 
