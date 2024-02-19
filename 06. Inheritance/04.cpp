@@ -1,4 +1,4 @@
-//Q.1 Write A Program To Print The Rate Of Interest Of Different Banks Using Hierarchical Inheritance:
+//Q.4 Write A Program To Print The Rate Of Interest Of Different Banks Using Hierarchical Inheritance:
 // Class RBI -> Class SBI
 // Class RBI -> Class BOB
 // Class RBI -> Class ICICI
