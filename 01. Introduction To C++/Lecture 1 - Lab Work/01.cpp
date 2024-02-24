@@ -1,7 +1,7 @@
 //Q.1 Write A Program To Find All Even Elements From A Given 1D Array.
 #include<iostream>
 using namespace std;
-
+ 
 main()
 {
     int n;
