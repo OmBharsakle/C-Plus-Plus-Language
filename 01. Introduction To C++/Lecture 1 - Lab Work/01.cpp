@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
  
-main()
+main() 
 {
     int n;
     
