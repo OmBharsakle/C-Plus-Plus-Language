@@ -3,7 +3,7 @@
 using namespace std;
 class Hotel
 {
-	int hotel_id,hotel_staff_quantity,hotel_room_quantity,hotel_rating;
+	int hotel_id,hotel_staff_quantity,hotel_room_quantity,hotel_rating; 
 	string hotel_location,hotel_type;
 	static string hotel_name;
 	static int hotel_establish_year;
