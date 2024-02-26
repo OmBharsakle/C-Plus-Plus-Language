@@ -1,7 +1,7 @@
 //Q.1 Write a Program to create an Employee Record System using the Class and object of any 5 employees. Consider the below-mentioned attributes in the Employee class:
 #include <iostream>
 using namespace std;
-
+ 
 class Ers 
 {
 	public:
