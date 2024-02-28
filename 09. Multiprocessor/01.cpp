@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Message
+class Message 
 {
 	string msg;
 	
