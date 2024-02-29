@@ -7,7 +7,7 @@ using namespace std;
 
 void division()
 {
-	int a,b;
+	int a,b; 
 	
 	cout << "Enter A : ";
 	cin >> a;
