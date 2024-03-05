@@ -1,6 +1,6 @@
 //Q.1 Write a Program to perform some basic mathematical operations using an Abstract class such as:
 // the area of a circle
-// the area of a triangle
+// the area of a triangle 
 // the area of a rectangle
 // use one single pure virtual function named calculate() to perform all the above operations
 
